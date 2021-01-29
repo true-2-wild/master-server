@@ -7,7 +7,7 @@ read dirName
 mkdir $dirName
 cd $dirName
 
-cp ../.master.js
+cp ../master.js
 npm init
 echo npm initialized
 echo Intalling express
